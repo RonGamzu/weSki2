@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 92px;
+  padding: 0 8%;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e3eb;
+}
+.headerWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

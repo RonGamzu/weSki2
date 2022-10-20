@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  gap: 10px;
+}
+.searchButton {
+  background-color: white;
+  color: #1f5cf1;
+  box-sizing: border-box;
+  width: 112px;
+  height: 44px;
+  border: 1px solid #1f5cf1;
+  border-radius: 8px;
+}
